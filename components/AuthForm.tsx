@@ -1,4 +1,4 @@
-A"use client";
+"use client";
 
 import { z } from "zod";
 import Link from "next/link";
